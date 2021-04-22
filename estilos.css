@@ -1,0 +1,16 @@
+#cabecera {
+background: red;
+font-size: 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#h1 {
+background:blue;
+font-size: 10px;
+text-shadow: 3px green;
+}
+
+.destacados {
+background: red;
+border: 1px solid white;
+padding: 5px
